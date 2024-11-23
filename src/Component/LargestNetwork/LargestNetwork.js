@@ -34,7 +34,7 @@ export default function LargestNetwork() {
                             <CustomComponent />
                         </div>
                     </div>
-                    <div class="col-5">
+                    <div class="col-5 col-lg-5">
                         <div>
                             <ImageContainer />
                         </div>

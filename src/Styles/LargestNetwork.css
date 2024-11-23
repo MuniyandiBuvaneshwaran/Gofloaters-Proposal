@@ -66,3 +66,32 @@
     z-index: 2;
     transform: translate(-390.858px, -1.7053e-13px) rotate(0deg)translate(490.458px, 39.192px);
 }
+
+@media (min-width: 1324px) and (max-width: 1450px) {
+
+    .mobile {
+        display: block;
+        height: 60%;
+        position: absolute;
+        width: 75%;
+        transform: translate(-458.858px, -1.7053e-13px) rotate(0deg) translate(-48.542px, -24.808px);
+        z-index: 3;
+    }
+
+    .mobile2 {
+        display: block;
+        height: 39%;
+        pointer-events: none;
+        position: absolute;
+        width: 16%;
+        object-fit: cover;
+        z-index: 2;
+        transform: translate(-450.858px, -1.7053e-13px) rotate(0deg) translate(490.458px, 52.192px);
+
+    }
+}
+
+@media (min-width: 1324px) and (max-width: 1450px) {
+
+    
+}

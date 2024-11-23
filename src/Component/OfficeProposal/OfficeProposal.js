@@ -37,7 +37,7 @@ export default function OfficeProposal() {
                         />
                         <p className="textprimary fw-bold" style={{ marginTop: "30px" }}>Office Space</p>
                         <p className=" textprimarys fw-bold" style={{ marginLeft: 20 }}>Prposal</p>
-                        <p className="text-info">{proposal.clientName}</p>
+                        <p className="text-info">{proposal?.clientName}</p>
                     </div>
                     {/* Right Section */}
                     <div className="col-md-6">
