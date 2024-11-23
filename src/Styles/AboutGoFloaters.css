@@ -1,0 +1,56 @@
+h1 {
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.badge-wrapper img {
+    max-width: 100px;
+    height: auto;
+}
+
+.ratings-wrapper p {
+    margin: 0.5rem 0;
+    font-size: 1.1rem;
+}
+
+.socialimage {
+    margin-top: 24px;
+    width: 70%;
+    height: 100%;
+}
+
+.About {
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(33, 41, 56);
+    font-kerning: none;
+    text-decoration: none;
+    font-size: 62.392px;
+}
+
+.content {
+    font-size: 19px;
+    font-weight: 500;
+    color: rgb(33, 41, 56);
+    text-align: justify;
+    letter-spacing: 2px;
+
+}
+
+.workspace {
+    width: 306.917px;
+    height: 280.383px;
+    transform: scale(1.299, 1.99);
+    border-radius: 16px;
+}
+
+.main {
+    clip-path: url(#__id4);
+    transform-origin: 0px 0px;
+    transform: translate(-56.458px, 0px) translate(244.458px, 356.192px) rotate(0deg) translate(-199.458px, -178.192px);
+
+}

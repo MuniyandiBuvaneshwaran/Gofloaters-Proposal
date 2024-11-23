@@ -1,0 +1,47 @@
+h2 {
+    font-weight: bold;
+    color: #212529;
+}
+
+.tables {
+    width: 1000px;
+    margin-top: 1rem;
+    border-collapse: collapse;
+}
+
+.header {
+    background-color: #20437c;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.tables th,
+.tables td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+}
+.sideheader{
+    background-color: #dbdbdb;
+
+}
+
+td:first-child {
+    font-weight: bold;
+    text-align: left;
+}
+
+.table-bordered th,
+.table-bordered td {
+    border: 1px solid #dee2e6;
+}
+
+.table-bordered {
+    overflow: hidden;
+}
+
+.container1 {
+    margin: 100px;
+}

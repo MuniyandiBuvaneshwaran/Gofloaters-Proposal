@@ -1,0 +1,40 @@
+*{
+   max-width: 100%;
+}
+
+.logo {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    width: 329.879px;
+    height: 93.4646px;
+    transform: translate(90.5401px, -5.8px);
+}
+
+.textprimary {
+    font-size: 70px;
+    font-weight: 700;
+    transform: translate(0px, 0.746667px);
+    color: #0097A7;
+    border-radius: 5px;
+}
+.textprimarys {
+    font-size: 70px;
+    font-weight: 700;
+    transform: translate(-80px, -47.746667px);
+    color: #0097A7;
+    border-radius: 5px;
+}
+
+.text-info {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.OfficeSpace {
+    width: 100%;
+    height: 401.651px;
+    transform: translate(-69.5401px, -5.8px);
+    border-radius: 10px;
+
+}
